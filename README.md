@@ -77,14 +77,15 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yungph&show_icons=true&layout=compact" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungph&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yungph&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yungph&show_icons=true&theme=tokyonight" alt="Mostafa's GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yungph" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yungph&theme=tokyonight" alt="GitHub Streak" />
 </p>
