@@ -79,13 +79,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungph&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaOsama73&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yungph&show_icons=true&theme=tokyonight" alt="Mostafa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MostafaOsama73&show_icons=true&theme=tokyonight" alt="Mostafa's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yungph&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MostafaOsama73&theme=tokyonight" alt="GitHub Streak" />
 </p>
