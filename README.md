@@ -22,7 +22,7 @@
 - 💬 Ask me about **Java, Spring Boot, MySQL, REST APIs**
 - 📫 Reach me at **mustafa.osama@ai.menofia.edu.eg**
 - 📄 My Resume:  
-  [View CV](https://drive.google.com/file/d/1mocKtboxKYZTjpT8rH3KaucuW8AR2O4a/view?usp=drive_link)
+  [View CV]([https://drive.google.com/file/d/1mocKtboxKYZTjpT8rH3KaucuW8AR2O4a/view?usp=drive_link](https://drive.google.com/file/d/1pwbHMEZzRKNhkpRfI4sSDwTS1AzK-qP4/view?usp=sharing))
 - ⚡ Fun fact: **I think I'm funny 😄**
 
 ---
